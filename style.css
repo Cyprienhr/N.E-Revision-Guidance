@@ -1,0 +1,114 @@
+.div1{
+    background-color: aqua;
+}
+#hed{
+    text-align: center;
+    margin-bottom: 0px;
+}
+.horizontal{
+    background-color: blueviolet;
+    margin-bottom: 0px;
+    padding: 17px;
+}
+.horizontal li{
+    list-style-type: none;
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+.share{
+    margin-left: 800px;
+}
+li a:hover{
+    background-color: darkred;
+}
+.active{
+    background-color: burlywood;
+    padding: 10px;
+}
+li a:active{
+    background-color: brown;
+}
+.vertical{
+    list-style-type: none;
+    width: 40%;
+}
+.vertical li a{
+padding-top: 6px;
+}
+.div2{
+    background-color: greenyellow;
+    width: 400px;
+    height: 200px;
+    padding-right: 100px;
+    margin-top: 0px;
+}
+.main{
+    display: flex;
+    padding-bottom: 60px;
+
+}
+.center1{
+    background-color: aquamarine;
+    height: 160px;
+    width: 85%;
+    margin-left: 100px;
+}
+.image1{
+    border-radius: 100%;
+    float: left;
+    padding:5px;
+}
+h2{
+    padding-top: 10px;
+}
+.center2{
+    background-color: aquamarine;
+    width: 85%;
+    height: 200px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#about{
+    color: brown;
+    text-align: center;
+}
+#par1{
+    background-color: white;
+    margin: 5px;
+}
+.center3{
+    background-color: aquamarine;
+    width: 85%;
+    position: relative;
+    height: 140px;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.center3a{
+    background-color: cadetblue;
+    width: 48%;
+    position: absolute;
+    left: 6px;
+    top: 3px;
+}
+.center3b{
+    background-color: darkslategray;
+    width: 48%;
+    position: absolute;
+    right: 12px;
+    top: 3px;
+}
+.image2{
+    width: 200px;
+}
+.p1{
+text-align: center;
+background-color: darkgray;
+padding: 25px;
+}
+b{
+color: blue;
+}

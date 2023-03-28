@@ -1,0 +1,38 @@
+.horizontal{
+    background-color: blueviolet;
+    padding: 10px;
+}
+.horizontal li{
+    list-style-type: none;
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+.share{
+    float: right;
+}
+li a:hover{
+    background-color: darkred;
+}
+.active{
+    background-color: burlywood;
+    padding: 10px;
+}
+li a:active{
+    background-color: brown;
+}
+.vertical{
+    list-style-type: none;
+    width: 40%;
+}
+.vertical li a{
+padding-top: 6px;
+}
+.div2{
+    background-color: greenyellow;
+    width: 80px;
+    height: 200px;
+    padding-right: 100px;
+    }
